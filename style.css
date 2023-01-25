@@ -1,0 +1,19 @@
+body { background-color: #FFE2E2;}
+hr {
+  
+    border-style: none;
+    border-top-style: dotted ;
+    border-color: white;
+    border-width: 6px;
+    width: 55px;
+    
+    
+}
+h1{
+    color: #8785A2;
+    font-family: Lucida Handwriting;
+}
+h3{
+    color: #8785A2;
+    font-family: Papyrus;
+}
